@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HiFySoundArtandTech
+- 👋 Hi, I’m @HFSoundArtandTech aka SW-Fyb.org
 - 👀 I’m interested in coding, for sure but spedcifically Python, home and business automation, 
 - 🌱 I’m currently learning Python, still. I'm currently working on my first glitch.com site.
 - 💞️ I’m looking to collaborate on anything music or Art related. Ok, not ANYTHING anything, but MANY different things. I really enjoy generative music and composition. 
